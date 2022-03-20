@@ -2,7 +2,7 @@
 Feature: Login Page 
 	As a user I should be able to login to the store and buy a phone
 
-@test 
+@testPhone
 Scenario: As a normal user I should be able to buy a phone from the store site
 	Given The user is in store
 	When User click on phones category
